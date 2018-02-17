@@ -314,3 +314,4 @@ export class LauncherIconGenerator extends BaseGenerator {
     return outCtx;
   }
 }
+alert('test');
